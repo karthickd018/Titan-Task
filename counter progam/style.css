@@ -1,0 +1,29 @@
+#count{
+  display:block;
+  text-align:center;
+  font-size: 6em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.c1{
+  text-align: center;
+  border: 1px;
+  
+  
+}
+.btn{
+  color: white;
+  background-color: hsl(240, 81%, 69%);
+  cursor:pointer;
+  margin-top: 20px;
+  padding: 10px 20px;
+  border-color: rgb(24, 21, 21);
+  border-style: hidden;
+ 
+
+
+
+}
+.btn:hover{
+  background-color: blue;
+}
